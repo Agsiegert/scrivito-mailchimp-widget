@@ -54,6 +54,7 @@ Finally, you will need to add your Mailchimp credentials for your list to the th
 ## Widget Configuration
 In the widget properties you can set:
 - Submit button text
+- Success message text
 
 ## Check code quality
 
